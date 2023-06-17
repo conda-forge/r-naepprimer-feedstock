@@ -1,11 +1,11 @@
-About r-naepprimer
-==================
+About r-naepprimer-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-naepprimer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=NAEPprimer
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-naepprimer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains a sample of the 2005 Grade 8 Mathematics data from the National Assessment of Educational Progress (NAEP). This data set is called the NAEP Primer.
 
